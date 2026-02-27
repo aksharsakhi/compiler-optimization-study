@@ -4,7 +4,6 @@
 **Roll No 1 – CB.SC.U4CSE23535 (Aadesh)**  
 **Roll No 2 – CB.SC.U4CSE23547 (Akshar Sakhi)**  
 **Roll No 3 – CB.SC.U4CSE23538 (Nishanth)**  
-**Roll No 4 – Name 4**
 
 ---
 
