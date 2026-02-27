@@ -1,12 +1,6 @@
 # Compiler Design
 # Case Study on Optimization Techniques
 
-**Roll No 1 – CB.SC.U4CSE23535 (Aadesh)**  
-**Roll No 2 – CB.SC.U4CSE23547 (Akshar Sakhi)**  
-**Roll No 3 – CB.SC.U4CSE23538 (Nishanth)**  
-
----
-
 ## Introduction -
 
 A compiler basically takes the code we write and translates it into machine code that the computer can actually run. It does this in three main steps:
